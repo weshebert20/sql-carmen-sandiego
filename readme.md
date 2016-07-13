@@ -51,6 +51,7 @@ createdb carmen; psql -d carmen -f /your/path/to/this/file/starter-code/world.sq
 Then, use the clues below to create the appropriate SQL queries to help you find Carmen and then, tell us where she's heading!!
 
 In order to check your progress, you can run your answers in your answer sheet by
+
 1. Entering the ```psql``` command line
 2. Switching to the ```carmen``` database you just created
 3. Executing the SQL query
