@@ -27,8 +27,8 @@ We're going to use what we've learned already about searching with SQL commands,
 
 #### Requirements
 
-- Use the clues.sql file as your "answer sheet"
-- From the command line, let's create a new database called ```carmen``` and populate it with the SQL found in ```world.sql```
+- Use the ``clues.sql`` file as your "answer sheet"
+- From the command line, create a new database called ```carmen``` and populate it with the SQL found in ```world.sql```
 
 **Pro Tip:** You can do this in one step with the command:
 
@@ -38,11 +38,11 @@ psql -f /your/path/to/this/file/starter-code/world.sql
 
 Then, use the clues below to create the appropriate SQL queries to help you find Carmen and then, tell us where she's heading!!
 
-In order to check your progress, you can run your answers in your answer sheet in one of two ways:
-1. Enter them in the ```psql``` command line
-2. Run the ```clues.sql``` file with ```psql``` as above
-
-We highly recommend you try both, especially if you are debugging.
+In order to check your progress, you can run your answers in your answer sheet by
+1. Entering the ```psql``` command line
+2. Switching to the ```carmen``` database you just created
+3. Executing the SQL query
+4. Saving the result and query that works in ```clues.sql```
 
 ### The Clues
 
