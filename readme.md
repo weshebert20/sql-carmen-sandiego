@@ -1,11 +1,13 @@
 <!--
-Creator: <Name>
+Creator: Alex White
 Market: SF
+Adapted By: Zeb Girouard
+Market: DEN
 -->
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
-# Where In The World Is Carmen Sandiego?
+# Where in the World Is Carmen Sandiego?
 
 ![](http://i.giphy.com/13n8txR8c9UDHG.gif)
 
@@ -21,7 +23,7 @@ We're going to use what we've learned already about searching with SQL commands,
 
 #### Starter code
 
-- Fork and clone the in the [starter-code](starter-code/world.sql)
+- Fork and clone the [starter-code](starter-code/world.sql)
 
 #### Requirements
 
@@ -102,3 +104,7 @@ During the previous exercise, rate your progress on a scale of 1-5 (5 being the 
 - **Organization:** Do you thoughtfully implement best coding patterns and practices?
 - **Collaboration:** Do you make an effort solve problems and share your ideas with others?
 - **Communication:** Do you clearly convey your thoughts to others in illustrative and clear ways?
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
