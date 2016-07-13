@@ -30,25 +30,19 @@ We're going to use what we've learned already about searching with SQL commands,
 - Use the clues.sql file as your "answer sheet"
 - From the command line, let's create a new database called ```carmen``` and populate it with the SQL found in ```world.sql```
 
-```
-# Enter psql
-psql
-
-# Create database
-CREATE DATABASE carmen;
-
-# Connect to carmen
-\c carmen
-\i world.SQL
-```
-
 **Pro Tip:** You can do this in one step with the command:
 
 ```bash
-psql -d carmen -f /your/path/to/this/file/starter-code/world.sql
+psql -f /your/path/to/this/file/starter-code/world.sql
 ```
 
 Then, use the clues below to create the appropriate SQL queries to help you find Carmen and then, tell us where she's heading!!
+
+In order to check your progress, you can run your answers in your answer sheet in one of two ways:
+1. Enter them in the ```psql``` command line
+2. Run the ```clues.sql``` file with ```psql``` as above
+
+We highly recommend you try both, especially if you are debugging.
 
 ### The Clues
 
