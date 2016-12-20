@@ -7,6 +7,8 @@ Market: DEN
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
+<!--11:20 15 minutes  Go through directions and clue #1-->
+
 # Where in the World Is Carmen Sandiego?
 
 ![](http://i.giphy.com/13n8txR8c9UDHG.gif)
