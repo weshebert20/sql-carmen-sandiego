@@ -7,6 +7,8 @@ Market: DEN
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
+<!--Actually 11:35 -->
+
 <!--11:20 15 minutes  Go through directions and clue #1-->
 
 # Where in the World Is Carmen Sandiego?
@@ -104,15 +106,6 @@ Use the clues.sql file to write in the SQL queries that correspond with each clu
 
 - [PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/)
 - [PostgreSQL official documentation](http://www.postgresql.org/docs/)
-
-### Self Evaluation
-
-During the previous exercise, rate your progress on a scale of 1-5 (5 being the highest) for the following criteria:
-
-- **Persistence:** Do you handle frustration well? Do you independently pursue understanding?
-- **Organization:** Do you thoughtfully implement best coding patterns and practices?
-- **Collaboration:** Do you make an effort solve problems and share your ideas with others?
-- **Communication:** Do you clearly convey your thoughts to others in illustrative and clear ways?
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
