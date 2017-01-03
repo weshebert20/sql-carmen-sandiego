@@ -11,6 +11,8 @@ Market: DEN
 
 <!--11:20 15 minutes  Go through directions and clue #1-->
 
+<!--Actually finished 11:48 -->
+
 # Where in the World Is Carmen Sandiego?
 
 ![](http://i.giphy.com/13n8txR8c9UDHG.gif)
