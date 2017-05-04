@@ -8,7 +8,7 @@ Market: DEN
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
 <!--Actually 11:35 -->
-
+<!---WDI3 11:31, 11:43 turning over to devs -->
 <!--11:20 15 minutes  Go through directions and clue #1-->
 
 <!--Actually finished 11:48 -->
