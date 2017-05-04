@@ -19,7 +19,7 @@ Market: DEN
 
 ## Introduction
 
-> ***Note:*** _This can be a pair programming activity or done independently._
+> ***Note:*** _This will be a pair programming activity._
 
 #### Use SQL to find Carmen Sandiego
 
@@ -29,7 +29,8 @@ We're going to use what we've learned already about searching with SQL commands,
 
 #### Starter code
 
-- Fork and clone the [starter-code](starter-code/world.sql)
+- Fork and clone the repo.
+- Check out the [starter-code](starter-code/world.sql)
 
 #### Requirements
 
