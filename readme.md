@@ -59,7 +59,7 @@ Then, use the clues below to create the appropriate SQL queries to help you find
 
 In order to check your progress, you can run your answers in your answer sheet by
 
-1. Entering the ```psql``` command line
+1. Entering ```psql``` in the command line
 2. Switching to the ```carmen``` database you just created
 3. Executing the SQL query
 4. Saving the result and query that works in ```clues.sql```
